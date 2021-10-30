@@ -1,0 +1,82 @@
+/* page 2 */
+/* background img */
+.container2 {
+    background-image: url('../img/model_3_safety_hero.png');
+    background-size: cover;
+    height: 900px;
+    width: 100vw;
+    position: relative;
+}
+.left {
+    padding: 0px;
+    margin: 10px;
+    width:18%;
+    display: inline-block;
+}
+.left h4 {
+    font-weight: lighter;
+}
+.p2 {
+    font-size: 10px;
+}
+.left2 {
+    border: 2px solid white;
+    background-color: lightgray;
+    border-radius: 42px;
+    width: 18%;
+    margin: 20px;
+    height: 250px;
+    text-align: center;
+}
+.left2 h3 {
+    margin-top: 20px;
+}
+.rating {
+    height: 180px;
+}
+
+ .rating li {
+    list-style: none;
+    text-align: left;
+    margin-left: 15px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.plus {
+    border: 3px black solid;
+    height:40px;
+    width: 40px;
+    border-radius: 80%;
+    position: absolute;
+    bottom: 20px;
+    left: 25px;
+    cursor: pointer;
+}
+.plus:hover {
+    background: black;
+    color: #fff;
+}
+.learn-more {
+    font-size: 12px;
+    display: inline-block;
+    position: absolute;
+    bottom: 33px;
+    left: 70px;
+    cursor: pointer;
+}
+.order {
+    position: absolute;
+    bottom: 25px;
+    left: 170px;
+    border-radius: 20px;
+    border:solid black;
+}
+.order a {
+    color: black;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+.order a:hover {
+    background-color: black;
+    color: white;
+}

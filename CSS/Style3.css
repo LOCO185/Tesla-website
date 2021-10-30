@@ -1,0 +1,126 @@
+/* Page 3 */
+/* background img */
+.container3 {
+    background-image:url('../img/lhd-performance-hero-desktop.jpg.jfif') ;
+    background-size: cover;
+    display: block;
+    height: 700px;
+    width: 100vw;
+    position: absolute;
+    top: 232vh;
+    display: flex;
+    flex-direction: column;
+}
+.white {
+    background-size: cover;
+    display: block;
+    height: 300px;
+    width: 100vw;
+    position: absolute;
+    top: 320vh;
+}
+.performance {
+    width: 120px;
+    margin-left: 380px;
+    margin-top: 50px;
+}
+.performance h4 {
+    font-weight: lighter;
+}
+.h1 {
+    margin: 0%;
+    padding: 0%;
+    width: 300px;
+    margin-left: 380px;
+    font-weight: bolder;
+    font-size: 26px;
+}
+.more{
+    margin-left: 380px;
+    height:40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 3px black solid;
+    background: transparent;
+    float: left;
+    cursor: pointer;
+}
+.more:hover{
+    background: black;
+    color: #fff;
+}
+.learn-more2 {
+    font-size: 12px;
+    margin-left: 430px;
+    padding-top: 10px;
+    position: absolute;
+    cursor: pointer;
+}
+.order2 {
+    margin-left: 520px;
+    position: absolute;
+    border-radius: 20px;
+    border:solid black;
+    float: none;
+}
+.order2 a {
+    color: black;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+.order2 a:hover {
+    background-color: black;
+    color: white;
+}
+.p-last {
+    display: inline-block;
+    width: 480px;
+    margin-left: 290px;
+    margin-top: -40px;
+}
+/* footer page 3*/
+.footer2 {
+    padding: 5px 5px;
+    color: white;
+    max-width: auto;
+    margin-top: auto;
+    height: 200px;
+    display: block;
+    display: inline-block;
+    
+}
+.speedometer2 {
+    width: 20%;
+    padding: 60px;
+    margin-left: 200px;
+    text-align: center;
+    font-size: 30px;
+    display: block;
+    display: inline-block;
+
+}
+.speedometer2 p {
+    font-size: 10px;
+}
+.range2 {
+    width: 20%;
+    padding: 60px;
+    text-align: center;
+    font-size: 30px;
+    display: block;
+    display: inline-block;
+}
+.range2 p {
+    font-size: 10px;
+}
+.awd2 {
+    width: 20%;
+    padding: 60px;
+    text-align: center;
+    font-size: 30px;
+    display: block;
+    display: inline-block;
+}
+.awd2 p {
+    font-size: 10px;
+}
